@@ -14,9 +14,6 @@ public class HomePage {
 				
 				
 			}
-else
-{
-}
 		}
 		catch(Exception e)
 		{
