@@ -11,7 +11,7 @@ public class HomePage {
 		{
 			if(PageName.equals("Simple Form Demo"))
 			{
-				
+			 System.out.println( "Hello World!, In test class. Started execution" );	
 				
 			}
 		}
